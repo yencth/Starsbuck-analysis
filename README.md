@@ -52,4 +52,4 @@ We analysis the data and find the answer for question:  whether or not someone w
 The best model is XGboost, which return accuracy is 74% use demographics data.
 This is not high accuracy. We could improve the performance by tunning model or get more features (in transcript data).
 
-This is link of medium:
+This is link of medium: https://medium.com/@haiyen1392/starbucks-analysis-b4e2bfbc97e9
