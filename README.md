@@ -56,7 +56,7 @@ This is link of medium: https://medium.com/@haiyen1392/starbucks-analysis-b4e2bf
 
 ## Acknowledgements
 These are some link of references:
-https://machinelearningmastery.com/train-final-machine-learning-model/
-https://www.analyticsvidhya.com/blog/2020/11/popular-classification-models-for-machine-learning/
-https://www.nvidia.com/en-us/glossary/data-science/xgboost/
-https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/
+* https://machinelearningmastery.com/train-final-machine-learning-model/
+* https://www.analyticsvidhya.com/blog/2020/11/popular-classification-models-for-machine-learning/
+* https://www.nvidia.com/en-us/glossary/data-science/xgboost/
+* https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/
